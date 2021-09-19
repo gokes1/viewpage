@@ -1,0 +1,19 @@
+body{
+    font-family: 'Raleway';
+}
+
+.cfcprimary, .nav-link:hover{
+    color: #FF4646 !important;
+    font-weight: bold !important;
+}
+
+.btn-outline-danger{
+    color: #FF4646 !important;
+    border-style: solid !important;
+    border-color: #FF4646 !important;
+}
+
+.btn-danger,.btn-danger:hover, .btn-outline-danger:hover, .cfcprimary-outline{
+    background: #FF4646 !important;
+    color: #ffffff !important;
+}
